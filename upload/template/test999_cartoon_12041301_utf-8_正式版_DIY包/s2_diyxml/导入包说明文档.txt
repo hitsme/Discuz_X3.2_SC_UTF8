@@ -1,0 +1,66 @@
+
+  欢迎使用9测模板
+
+<=================== 999test.cn - 9测网 ===================>
+ 
+ 安装：
+
+ A. 进入后台 - 界面 - 风格管理 - 设置“9测应用_cartoon_12041301” 为默认模板；
+
+ B. 进入portal.php页（门户首页）-- 点击管理员菜单内的“DIY”-- 进入高级模式 -- 导入资料包内的 diyxml/portal-index.xml 文件；
+ 
+ C. 进入后台 -- 门户 -- 频道栏目 -- 编辑（没有开设栏目请新建）-- 列表页模板名选择999test.cn_cartoon_12041301_01、文章页模板名选择999test.cn_cartoon_12041301_01；
+
+ D. 参考 http://www.999test.cn/qa/detail/1248.html 安装本套模板附赠的4个专题页；
+
+ E. 分别进入门户栏目页、论坛首页、帖子列表页、帖子内容页、专题页 -- 点击管理员菜单内的“DIY”-- 进入高级模式 -- 导入资料包内对应的xml文件；
+
+    * 帖子列表页、内容页导入DIY前请务必查看 http://www.999test.cn/qa/detail/1252.html 了解程序缓存机制；
+
+    |--门户栏目页  diyxml/portal-list_1.xml 
+
+    |--社区首页  diyxml/forum_discuz.xml 
+
+    |--帖子列表页 diyxml/forum_forumdisplay.xml  
+
+    |--帖子内容页 diyxml/forum_viewthread.xml 
+
+    |--80005 专题页 diyxml/portal-portal_topic_content_80005.xml
+
+    |--80013 专题页 diyxml/portal-portal_topic_content_80013.xml
+
+    |--80049 专题页 diyxml/portal-portal_topic_content_80049.xml
+
+    |--80051 专题页 diyxml/portal-portal_topic_content_80051.xml
+
+ F. 进入后台 -- 工具 -- 更新缓存 -- 更新所有缓存；
+
+ G. 进入所有导入过xml的页面 -- 点击右上角“DIY”-- 根据站点规划DIY编辑每个模块数据调用条件；
+
+
+<=================== 999test.cn - 9测网 ===================>
+
+ 备注: 
+
+ A. Discuz! 相关备份教程：http://www.999test.cn/tag/备份/
+
+ B. 获取客户售后帐号：请写Email至client@999test.cn *邮件标题请包含“获取客户号”
+
+<=================== 999test.cn - 9测网 ===================>
+
+
+  9测模板：
+
+  http://www.999test.cn
+
+  QQ: 747983834 / 944459016 / 373372740 / 794918446 / 1029879682
+
+
+<=================== 999test.cn - 9测网 ===================>
+
+
+  感谢您选用9测模板！
+
+
+  顺祝您的网站越办越好！
+  
